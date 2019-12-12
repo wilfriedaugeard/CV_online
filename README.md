@@ -1,2 +1,2 @@
 # CV_online
-Simple website to present our CV.
+Simple webpage to present your CV.
